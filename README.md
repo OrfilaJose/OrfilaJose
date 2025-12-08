@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Orfila Jose Frazão, tenho 27 anos e sou natural do Maranhão. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Laboro. Sou apaixonada por tecnologia e compartilho meu conhecimento aqui no GitHub.
+Meu nome é Orfila Jose Frazão, tenho 27 anos e sou natural do Maranhão. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Laboro. Sou apaixonada por tecnologia e compartilho meu conhecimento aqui no GitHub.
 
 <p align="left">
     <a href="https://www.youtube.com">
