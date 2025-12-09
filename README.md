@@ -34,7 +34,7 @@ Meu nome é Orfila Jose Frazão, tenho 27 anos e sou natural do Maranhão. Atual
             src="https://icons8.com/icon/13930/linkedin"
         />
     </a>
-    <a href="https://www.linkedin.com/orfila-josé-frazão-7b594322b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <a href="https://www.linkedin.com/in/orfila-jos%C3%A9-fraz%C3%A3o-7b594322b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
         <img/>
     </a> 
 </p>
